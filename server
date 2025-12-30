@@ -37,3 +37,4 @@ app.listen(PORT, () => {
 MONGO_URI=PASTE_YOUR_MONGODB_URI_HERE
 JWT_SECRET=supersecurejwtkey123
 PORT=5000
+mongodb+srv://King:<db_password>@cluster0.xc9afjc.mongodb.net/?appName=Cluster0
